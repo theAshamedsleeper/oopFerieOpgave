@@ -7,12 +7,13 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="FishStuff.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Page Update="FishStuff.xaml">
+    <Page Update="MammalStuff  - Copy.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BirdStuff - Copy.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FishStuff-copy.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

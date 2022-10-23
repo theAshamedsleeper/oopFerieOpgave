@@ -1,33 +1,20 @@
-﻿using Microsoft.VisualBasic;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace WpfZoo2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window,testforNameOFAnim
+    public partial class MainWindow : Window, testforNameOFAnim
     {
-        
+
         public MainWindow()
         {
             testforNameOFAnim.myAnimals.Add(testforNameOFAnim.lion1);
             testforNameOFAnim.myAnimals.Add(testforNameOFAnim.shark1);
             testforNameOFAnim.myAnimals.Add(testforNameOFAnim.parrot1);
-            
+
             InitializeComponent();
 
         }
@@ -40,7 +27,30 @@ namespace WpfZoo2
 
         public void Fish1_Initialized(object sender, EventArgs e)
         {
-            Fish1.Content =testforNameOFAnim.shark1.NameOf();
+            Fish1.Content = testforNameOFAnim.shark1.NameOf();
+
+        }
+        private void Bird1_Click(object sender, RoutedEventArgs e)
+        {
+            BirdStuff birdStuff = new BirdStuff();
+            birdStuff.Show();
+        }
+
+        private void Mammal1_Click(object sender, RoutedEventArgs e)
+        {
+            MammalStuff mammalStuff = new MammalStuff();
+            mammalStuff.Show();
+        }
+
+        private void Mammal1Initialized(object sender, EventArgs e)
+        {
+            Mammal1.Content = testforNameOFAnim.lion1.NameOf();
+
+        }
+
+        private void Bird1_Initialized(object sender, EventArgs e)
+        {
+            Bird1.Content = testforNameOFAnim.parrot1.NameOf();
 
         }
     }

@@ -13,9 +13,9 @@
         <TextBox HorizontalAlignment="Left" Height="40" Margin="70,106,0,0" TextWrapping="Wrap" Text="Fish" VerticalAlignment="Top" Width="80" Foreground="White" Background="#ff2f0129" TextAlignment="Center" FontSize="24" FontWeight="Bold" BorderBrush="#ff2f0129"/>
         <TextBox HorizontalAlignment="Center" Height="40" Margin="0,106,0,0" TextWrapping="Wrap" Text="Mammal" VerticalAlignment="Top" Width="128" Foreground="White" Background="#ff2f0129" TextAlignment="Center" FontSize="24" FontWeight="Bold" BorderBrush="#ff2f0129"/>
         <TextBox HorizontalAlignment="Left" Height="40" Margin="647,106,0,0" TextWrapping="Wrap" Text="Bird" VerticalAlignment="Top" Width="80" Foreground="White" Background="#ff2f0129" TextAlignment="Center" FontSize="24" FontWeight="Bold" BorderBrush="#ff2f0129"/>
-        <Grid HorizontalAlignment="Left" Height="40" Margin="70,162,0,0" VerticalAlignment="Top" Width="80">
-            <Button x:Name="Fish1" Content="PlacementText" HorizontalAlignment="Center" Height="40" VerticalAlignment="Center" Width="80" Click="Fish1_Click" Initialized="Fish1_Initialized"/>
-        </Grid>
+        <Button x:Name="Fish1" Content="PlacementText" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="80" Click="Fish1_Click" Initialized="Fish1_Initialized" Margin="70,151,0,0"/>
+        <Button x:Name="Mammal1" Content="PlacementText" HorizontalAlignment="Center" Height="40" VerticalAlignment="Top" Width="80" Click="Mammal1_Click" Initialized="Mammal1Initialized" Margin="0,151,0,0"/>
+        <Button x:Name="Bird1" Content="PlacementText" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="80" Click="Bird1_Click" Initialized="Bird1_Initialized" Margin="647,151,0,0"/>
 
     </Grid>
 </Window>

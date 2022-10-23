@@ -8,12 +8,14 @@ using System.Windows.Controls;
 
 namespace WpfZoo2
 {
-    internal class Fish : Animal
+    public  class Fish : Animal
     {
         private bool canSwim;
-        public Fish(string name, int health, int legs, int age, int foodBar, bool canFly,bool canSwim) : base(name, health, legs, age, foodBar, canFly)
+        private string myMood;
+        public Fish(string name, int health, int legs, int age, int foodBar, bool canFly,bool canSwim, string myMood) : base(name, health, legs, age, foodBar, canFly)
         {
             this.canSwim = canSwim;
+            this.myMood = myMood;
         }
         public override void Eat()
         {
@@ -38,6 +40,33 @@ namespace WpfZoo2
         public int LegsOf()
         {
             return legs;
+        }
+        public int FoodBarlength()
+        {
+            return foodBar;
+        }
+        public string MyOverallMood()
+        {
+            if (foodBar >= 15)
+            {
+                myMood = mood.happy.ToString();
+                return myMood;
+            }
+            else if (foodBar >= 10 && foodBar <=15)
+            {
+                myMood = mood.okay.ToString();
+                return myMood;
+            }
+            else if (foodBar >= 1 && foodBar <= 10)
+            {
+                myMood = mood.sad.ToString();
+                return myMood;
+            }
+            return myMood;
+        }
+        public void DecreaseValues()
+        {
+            foodBar--;
         }
 
     }

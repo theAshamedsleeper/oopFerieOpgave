@@ -19,5 +19,9 @@ D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.pdb
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.genruntimeconfig.cache
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\ref\WpfZoo2.dll
-D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff.g.cs
-D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff.baml
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.g.cs
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.baml
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.g.cs
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.baml
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.g.cs
+D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.baml
