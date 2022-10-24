@@ -52,3 +52,30 @@ D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\Wp
 D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.pdb
 D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.genruntimeconfig.cache
 D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\ref\WpfZoo2.dll
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.exe
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.deps.json
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.runtimeconfig.json
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.dll
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.pdb
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.csproj.AssemblyReference.cache
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.g.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.g.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.g.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2_MarkupCompile.cache
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2_MarkupCompile.lref
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.baml
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.baml
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.baml
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.g.resources
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.AssemblyInfoInputs.cache
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.AssemblyInfo.cs
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.csproj.CoreCompileInputs.cache
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.dll
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\refint\WpfZoo2.dll
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.pdb
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.genruntimeconfig.cache
+C:\Users\thorb\stuff\Skole\1.Semester\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\ref\WpfZoo2.dll

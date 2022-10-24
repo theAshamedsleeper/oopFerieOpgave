@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files (x86)\\Skole Dania\\1. Semester\\OOP\\Ferieopgave\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\WpfZoo2.csproj",
+      "projectUniqueName": "C:\\Users\\thorb\\stuff\\Skole\\1.Semester\\OOP\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\WpfZoo2.csproj",
       "projectName": "WpfZoo2",
-      "projectPath": "D:\\Program Files (x86)\\Skole Dania\\1. Semester\\OOP\\Ferieopgave\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\WpfZoo2.csproj",
+      "projectPath": "C:\\Users\\thorb\\stuff\\Skole\\1.Semester\\OOP\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\WpfZoo2.csproj",
       "packagesPath": "C:\\Users\\thorb\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files (x86)\\Skole Dania\\1. Semester\\OOP\\Ferieopgave\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\obj\\",
+      "outputPath": "C:\\Users\\thorb\\stuff\\Skole\\1.Semester\\OOP\\oopFerieOpgave\\WpfZoo2\\WpfZoo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
