@@ -25,3 +25,30 @@ D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.baml
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.g.cs
 D:\Program Files (x86)\Skole\OOP\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.baml
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.exe
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.deps.json
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.runtimeconfig.json
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.dll
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\bin\Debug\net6.0-windows\WpfZoo2.pdb
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.g.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.g.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.g.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\App.g.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2_MarkupCompile.cache
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2_MarkupCompile.lref
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\BirdStuff - Copy.baml
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\FishStuff-copy.baml
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\MammalStuff  - Copy.baml
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.g.resources
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.AssemblyInfoInputs.cache
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.AssemblyInfo.cs
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.dll
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\refint\WpfZoo2.dll
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.pdb
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\WpfZoo2.genruntimeconfig.cache
+D:\Program Files (x86)\Skole Dania\1. Semester\OOP\Ferieopgave\oopFerieOpgave\WpfZoo2\WpfZoo2\obj\Debug\net6.0-windows\ref\WpfZoo2.dll
